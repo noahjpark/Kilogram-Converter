@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Kilogram Converter</string>
+    <string name="edit_message">Kilograms:</string>
+    <string name="button_send">Send</string>
+    <string name="edit_message2">Pounds:</string>
+    <string name="button0">25kg</string>
+    <string name="Button9">Clear</string>
+    <string name="blank">%d</string>
+    <string name="button1">20kg</string>
+    <string name="button2">15kg</string>
+    <string name="button3">10kg</string>
+    <string name="button4">5kg</string>
+    <string name="button5">2.5kg</string>
+    <string name="button6">1.25kg</string>
+    <string name="button7">0.5kg</string>
+    <string name="rem">Remove</string>
+    <string name="add">Add</string>
+    <string name="Initialize">0.00</string>
+    <string name="kilomessage">%1$d KGS</string>
+    <string name="poundmessage">%1$d LBS</string>
+    <string name="empty"></string>
+</resources>
