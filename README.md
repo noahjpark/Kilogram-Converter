@@ -3,3 +3,5 @@ The goal of this project is to create a working Android version of a kilogram to
 
 MainActivity.java is in the path: app/src/main/java/com/example/kilogramconverter
 main_activity.xml is in the path: app/src/main/res/layout/main_activity.xml
+
+App can be found in the Google Play Store at: https://play.google.com/store/apps/details?id=powerlifting.calculator.kilogramconverter
